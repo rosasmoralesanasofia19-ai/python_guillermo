@@ -1,4 +1,4 @@
-MYSQL_HOST = 'localhost'
-MYSQL_USER = 'root'
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
 MYSQL_PASSWORD = ""
-MYSQL_DATABASE = "Techstore"
+MYSQL_DATABASE = "techstore"
